@@ -1,0 +1,6 @@
+{
+  "name": "NEON CLASH",
+  "description": "A high-octane 3D arcade vehicular combat racer with procedural cyber-circuits, synthwave audio, and tactical power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
